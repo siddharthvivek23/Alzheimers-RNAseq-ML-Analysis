@@ -90,6 +90,23 @@ Included:
 - RNA-seq analysis
 
 ---
+## Results Visualization
+
+### AI Biomarker Heatmap
+
+![AI Biomarker Heatmap](Figures/AI_Biomarker_Heatmap.png)
+
+### AI Biomarker Ranking
+
+![AI Biomarker Ranking](Figures/BarGraph_P2_Fig1.png)
+
+### Gene Ontology Enrichment
+
+![GO Enrichment](Figures/Figure_2.png)
+
+### Biomarker Validation
+
+![Validation](Figures/Figure_3s.png)
 
 ## Future Work
 
